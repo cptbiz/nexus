@@ -1,0 +1,6 @@
+{
+  "environment": "Production",
+  "user_id": "YOUR_USER_ID",
+  "wallet_address": "YOUR_WALLET_ADDRESS",
+  "node_id": "YOUR_NODE_ID"
+}
